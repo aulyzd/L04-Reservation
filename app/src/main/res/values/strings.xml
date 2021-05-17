@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="customer_name">Name:</string>
+    <string name="number">Mobile Number:</string>
+    <string name="group_size">Group Size:</string>
+    <string name="reservation_date">Date:</string>
+    <string name="registration_time">Time:</string>
+    <string name="full_name">Full Name:</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="size">5</string>
+    <string name="confirmation_btn">Confirm Reservation</string>
+    <string name="option_seats">Opt For Table In Smoking Area?:</string>
+    <string name="smk_area">Smoking Area Table</string>
+
+</resources>
